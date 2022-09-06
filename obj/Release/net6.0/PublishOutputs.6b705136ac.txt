@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\FirstWebApp.exe
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\FirstWebApp.dll
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\FirstWebApp.deps.json
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\FirstWebApp.runtimeconfig.json
+C:\Users\DELL\source\repos\FirstWebApp\FirstWebApp\obj\Release\net6.0\PubTmp\Out\FirstWebApp.pdb
