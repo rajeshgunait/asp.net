@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\FirstWebApp\\FirstWebApp\\FirstWebApp.csproj": {}
+    "G:\\Docker\\asp.net\\FirstWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\FirstWebApp\\FirstWebApp\\FirstWebApp.csproj": {
+    "G:\\Docker\\asp.net\\FirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\FirstWebApp\\FirstWebApp\\FirstWebApp.csproj",
+        "projectUniqueName": "G:\\Docker\\asp.net\\FirstWebApp.csproj",
         "projectName": "FirstWebApp",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\FirstWebApp\\FirstWebApp\\FirstWebApp.csproj",
+        "projectPath": "G:\\Docker\\asp.net\\FirstWebApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\FirstWebApp\\FirstWebApp\\obj\\",
+        "outputPath": "G:\\Docker\\asp.net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
